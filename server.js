@@ -1,10 +1,6 @@
 // This module handles all the server 
 
-// import app from "./app.js";
-// import debug from "debug";
-// import http from "http";
-
-const { app } = require("./app.js")
+const { app } = require("./app")
 const debug = require("debug");
 const http = require("http");
 
